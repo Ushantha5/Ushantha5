@@ -45,9 +45,10 @@
 
 ### 🎵 Favorite Song
 🔊 Nee Singam Dhan –  
-https://www.masstamilan.dev/2466/nee-singam-dhan-mp3-song  ![Uploading LOGO MR5  SCHOOL BRAND.png…]()
+https://www.masstamilan.dev/2466/nee-singam-dhan-mp3-song  
 
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" />
 
 <!--
 **Ushantha5/Ushantha5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
