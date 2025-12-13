@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h1>Hello < World >! I'm Mr5ushantha 👋</h1>
+<h1>Hello < World >! I'm Mr ushantha 👋</h1>
 
 <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9dogbs90xhi2j1osxlni.jpg" />
 
@@ -46,9 +46,13 @@
 
 ### 🎵 Favorite Song
 🔊 Nee Singam Dhan –  
-https://www.masstamilan.dev/2466/nee-singam-dhan-mp3-song  
 
+<audio controls>
+  <source src="audiofile.mp3" type="audio/mpeg">
+  <source src="audiofile.ogg" type="audio/ogg">
+  https://www.masstamilan.dev/2466/nee-singam-dhan-mp3-song 
 
+</audio>
 
 <!--
 **Ushantha5/Ushantha5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
