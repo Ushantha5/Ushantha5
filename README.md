@@ -48,7 +48,6 @@
 https://www.masstamilan.dev/2466/nee-singam-dhan-mp3-song  
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" />
 
 <!--
 **Ushantha5/Ushantha5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,3 +63,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" /> <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)" />
+
+
