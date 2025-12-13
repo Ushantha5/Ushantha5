@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" /> <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" /> 
+<img src="[https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)" />
 
 
