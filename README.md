@@ -8,7 +8,6 @@
 
 <h1>Hello < World >! I'm Mr ushantha 👋</h1>
 
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQEq3lEHUvp8iQ/profile-displaybackgroundimage-shrink_350_1400/B4EZj5MUU0IIAY-/0/1756527414060?e=1767225600&v=beta&t=z0KprEy15rjprnUUviVh_H1cKVIk5OvpBm_eqRqpkho" />
 
 <h3>Full-Stack Developer | 3D Game Developer | CEO – Mr5</h3>
 
@@ -70,4 +69,9 @@ Here are some ideas to get you started:
 -->
 <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)" />
 
+
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQFj9cC2eg0wFg/profile-displayphoto-crop_800_800/B4EZp3wzcnIoAI-/0/1762945875011?e=1767225600&v=beta&t=0KNJnTtGfR97Wwz-sZweNH3MQlDRXX8L3hyz6GwvPPA" />
+
+
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQEq3lEHUvp8iQ/profile-displaybackgroundimage-shrink_350_1400/B4EZj5MUU0IIAY-/0/1756527414060?e=1767225600&v=beta&t=z0KprEy15rjprnUUviVh_H1cKVIk5OvpBm_eqRqpkho" />
 
