@@ -9,6 +9,7 @@
 <h1>Hello < World >! I'm Mr ushantha 👋</h1>
 
 <img src="https://media.licdn.com/dms/image/v2/D4E03AQFj9cC2eg0wFg/profile-displayphoto-crop_800_800/B4EZp3wzcnIoAI-/0/1762945875011?e=1767225600&v=beta&t=0KNJnTtGfR97Wwz-sZweNH3MQlDRXX8L3hyz6GwvPPA" />
+<img src="https://media.licdn.com/dms/image/v2/D4E03AQFj9cC2eg0wFg/profile-displayphoto-crop_800_800/B4EZp3wzcnIoAI-/0/1762945875011?e=1767225600&v=beta&t=0KNJnTtGfR97Wwz-sZweNH3MQlDRXX8L3hyz6GwvPPA" />
 
 <h3>Full-Stack Developer | 3D Game Developer | CEO – Mr5</h3>
 
