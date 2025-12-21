@@ -2,6 +2,7 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
 name: Generate Snake
+<img src="https://drive.google.com/file/d/1cn3ynnEMv55gwmpM3Fi54DGud7PnsLrt/view?usp=sharing"/>
 
 # Controls when the action will run. This action runs every 6 hours.
 
@@ -129,5 +130,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQEq3lEHUvp8iQ/profile-displaybackgroundimage-shrink_350_1400/B4EZj5MUU0IIAY-/0/1756527414060?e=1767225600&v=beta&t=z0KprEy15rjprnUUviVh_H1cKVIk5OvpBm_eqRqpkho" />
-<img src="https://drive.google.com/file/d/1cn3ynnEMv55gwmpM3Fi54DGud7PnsLrt/view?usp=sharing" />
 
