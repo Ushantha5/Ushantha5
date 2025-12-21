@@ -245,7 +245,7 @@ I am a dedicated Backend Developer focused on building scalable systems and expl
   <p>
     <a href="https://github.com/hoangtien2k3/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hoangtien2k3's streak" src="https://streak-stats.demolab.com/?user=hoangtien2k3&theme=monokai-metallian&hide_border=true"/>
-      <img src="https://i.ibb.co/N366vtQ/hoangtien2k3.png" alt="hoangtien2k3" width="200px">
+      <img src="https://drive.google.com/file/d/1w-bHqpuD4-1udp0gz27Y4gXwedqUNKWd/view?usp=sharing" alt="hoangtien2k3" width="200px">
     </a>
     <p>🔥 Get streak stats for your profile at <a href="hoangtien2k3.github.io">hoangtien2k3.github.io</a></p>
   </p>
