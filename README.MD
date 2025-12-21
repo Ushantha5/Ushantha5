@@ -199,7 +199,7 @@ I am a dedicated Backend Developer focused on building scalable systems and expl
 
 <!-- More Information Details Myself -->
 <details>
-<summary> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> More -> the portrait of a backend dev wannabe who commits at 3 AM🔥
+<summary> <https://www.tiktok.com/@ushanthaofficial/photo/7343287721940520193?is_from_webapp=1&sender_device=pc&web_id=7586378826335192592" width="25" height="25"/> More -> the portrait of a backend dev wannabe who commits at 3 AM🔥
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge">
 </summary> 
 
