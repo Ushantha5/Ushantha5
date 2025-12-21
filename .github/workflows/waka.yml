@@ -1,0 +1,26 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12:00 AM UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run this manually from the Actions tab for testing
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # IMPORTANT: Grants permission to push updates to the README
+      
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ░▒▓█
+          CODE_LANG: python
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
