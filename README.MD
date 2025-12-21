@@ -163,8 +163,7 @@ Here are some ideas to get you started:
 
   <div align="left">
 
-I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
-and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
+I am a dedicated Backend Developer focused on building scalable systems and exploring emerging technologies. Beyond my core work, I am an active contributor to the open-source ecosystem. I am also committed to community education, where I simplify complex technical concepts for a growing audience on my TikTok channel, 🇱🇰ctdl.gt.(https://www.tiktok.com/@ushanthaofficial?is_from_webapp=1&sender_device=pc)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
