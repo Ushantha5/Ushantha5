@@ -134,22 +134,22 @@ Here are some ideas to get you started:
 
 <!-- Title The Full Name -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
+  <a href="#"><img src="https://drive.google.com/file/d/1cn3ynnEMv55gwmpM3Fi54DGud7PnsLrt/view?usp=sharing"></a>
 
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://x.com/Mr_Ushantha/likes"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://x.com/Mr_Ushantha/likes"><img width="32px" alt="Twitter/ushantha" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a mr509803" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a https://dev.to/mr_ushantha_118208a12bad"><img width="32px" alt="Dev.to" title="hoangtien2k3 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a https://dev.to/mr_ushantha_118208a12bad"><img width="32px" alt="Dev.to/ushantha" title="hoangtien2k3 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a https://ko-fi.com/ushantha"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a https://ko-fi.com/ushantha"><img width="32px" alt="Ko-fi/ushantha" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a https://www.youtube.com/@Mr.Ushantha/@hoangtien2k3"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a https://www.youtube.com/@Mr.Ushantha/@hoangtien2k3"><img width="32px" alt="Youtube/ushantha" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a buymeacoffee.com/ushanthamr8"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a buymeacoffee.com/ushanthamr8"><img width="32px" alt="Free Stuff/ushantha" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 
