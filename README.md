@@ -15,7 +15,7 @@ on:
 
 # The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build."
+  # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
@@ -30,7 +30,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: mishmanners
+          github_user_name: Ushantha5
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
