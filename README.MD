@@ -44,8 +44,9 @@
 
 ---
 
-### 🎵 Favorite Song
-🔊 Nee Singam Dhan –  
+<audio controls>
+  <source src="https://www.masstamilan.dev/2466/nee-singam-dhan-mp3-song" type="audio/mpeg">
+</audio>
 
 <audio controls>
   <source src="  https://www.masstamilan.dev/2466/nee-singam-dhan-mp3-song " type="audio/mpeg">
