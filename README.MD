@@ -10,7 +10,14 @@
 <h1>Hello < World >! I'm Mr ushantha 👋</h1>
 
 
-<h3>Full-Stack Developer | 3D Game Developer | CEO – Mr5</h3>
+<h3>Full-Stack Developer | 3D Game Developer | CEO
+CTO / COO / CFO
+Director
+Manager
+Team Lead
+Senior Staff
+Junior Staff
+Intern – Mr5</h3>
 
 ---
 
