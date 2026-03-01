@@ -261,4 +261,15 @@ I am a dedicated Backend Developer focused on building scalable systems and expl
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
+https://www.canva.com/design/DAG_NqZaLig/NEbQrb0IBLjdo4BTg_FP4g/edit?utm_content=DAG_NqZaLig&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAG_NqZaLig/wLXPVyUT5-Uyvheicpt_vg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG_NqZaLig&#x2F;wLXPVyUT5-Uyvheicpt_vg&#x2F;view?utm_content=DAG_NqZaLig&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Ushantha-Resume.pdf</a> by Shalu Shalu
+
+https://www.canva.com/design/DAG_NqZaLig/wLXPVyUT5-Uyvheicpt_vg/view
