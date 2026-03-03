@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<h1>Hello < World >! I'm Mr ushantha 👋</h1>
+<h1>I'm Mr ushantha 👋</h1>
 
 
 <h3>Full-Stack Developer | 3D Game Developer | CEO
