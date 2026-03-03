@@ -1,5 +1,5 @@
 <!-- Information myself -->
-<h2>👋 வணக்கம்</h2>
+<h2> வணக்கம் 👋</h2>
 
 
 ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
