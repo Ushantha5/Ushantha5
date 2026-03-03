@@ -1,10 +1,6 @@
 <!-- Information myself -->
 <h2>👋 Vanakam</h2>
 
-<div>
-  <a href="https://github.com/reactifyx">
-      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="210">
-  </a>
 
 ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
 
